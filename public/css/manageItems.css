@@ -1,0 +1,13 @@
+.message, .error_message {
+   position: absolute; 
+   left: 30%;
+   top: 35%;
+   padding: 25px;
+   border: 10px groove black;
+   border-radius: 20px;
+   background-color: white;
+   width: 400px;
+   height: auto;
+   font-size: 24px;
+   z-index: 100; 
+}
