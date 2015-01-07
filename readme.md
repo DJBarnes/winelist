@@ -1,6 +1,8 @@
 ## Overview
 Winelist is a small laravel 4.0.* application that shows some of the basic functionality that can be accomplished with Laravel. The project was the result of a small set of classes I taught on the framework. It allowed students to understand MVC, and get a feel for how the components fit together.
 
+A demo of this application can be seen at the following [Link](http://barnesbrothers.homeserver.com/winelist). The application is wired up to an actual database, and although I don't mind you playing around to see how the application functions, please don't be a troll. Otherwise I will be forced to remove the database component and alter the behavior of the application to something different than what the code reflects.
+
 ## Technologies
 ### Laravel 4.0.*
 The project uses Laravel 4.0.*. No other libraries were used. The main focus was on vanila laravel.
