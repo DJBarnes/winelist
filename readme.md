@@ -12,6 +12,7 @@ This version of the CAEWeb application uses the Eloquent driver, which is the La
 Navigating to the site sends users to the login page. All routes require the user to be logged in before they can access them. The default username and password that is setup by the database seeder is:
 
 UN:admin
+
 PW:laravel4
 
 ### Wine List
@@ -116,7 +117,7 @@ All of the table structure has been listed below for reference. Tables can be cr
 | id                  | int(10) unsigned | NO   | PRI | NULL                | auto_increment |
 | name                | varchar(20)      | NO   |     | NULL                |                |
 | created_at          | timestamp        | NO   |     | NULL                |                |
-| updated_at          | timestammp       | NO   |     | NULL                |                |
+| updated_at          | timestamp        | NO   |     | NULL                |                |
 
 #### users
 
